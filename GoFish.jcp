@@ -1,0 +1,78 @@
+<?xml?>
+<project>
+	<settings>
+		<label>GoFish</label>
+		<root_path>\</root_path>
+		<output_path>H:\Projects\Card Games\GoFish\classes\</output_path>
+		<source_path>H:\Projects\Card Games\GoFish\src\</source_path>
+		<jdkprofile_ref>j2sdk1.4.2_06</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>classes\GoFish.htm</run>
+		</runtime>
+		<runtime>
+			<label>Web Page Start</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>G:\Computer Science\Projects\Card Games\GoFish\src\Main.html</run>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>classes\GoFish.htm</path>
+				<url>classes\GoFish.htm</url>
+				<source>true</source>
+				<browser>true</browser>
+			</fileitem>
+			<fileitem>
+				<path>src\Card.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\ComputerPlayer.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\Deck.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\Driver.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\GoFish.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\Main.html</path>
+				<url>src\Main.html</url>
+				<source>true</source>
+				<browser>true</browser>
+			</fileitem>
+			<fileitem>
+				<path>src\Player.java</path>
+				<source>true</source>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

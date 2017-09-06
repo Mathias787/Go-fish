@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>GoFish</label>
+	</settings>
+	<users>
+		<user>
+			<path>GoFish2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GoFish.jcp</path>
+		</project>
+	</projects>
+</workspace>
